@@ -10,7 +10,7 @@ body {
 
 main {
     background-color: white;
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding: 15px;
     box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.473);
@@ -30,3 +30,11 @@ h2 {
 p { 
     color: black;
 }
+
+img.lado{
+    float: right;
+}
+img.liedo{
+    float: left;
+}
+
